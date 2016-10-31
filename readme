@@ -1,1 +1,6 @@
-haha
+1). Just git pull (to download this repo to local)
+2). run the source code: node server.js
+3). open browser (I only tried on firefox so far); go to : 
+http://127.0.0.1:8081/cv.htm
+
+that's all.
