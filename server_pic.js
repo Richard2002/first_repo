@@ -14,3 +14,11 @@ var server = app.listen(8081, function () {
    console.log("Example app listening at http://%s:%s", host, port)
 
 })
+
+/*readme:
+1).node server_pic.js
+2). browser firefox open: http://127.0.0.1:8081/images/shenyang.jpg
+*/
+
+
+
